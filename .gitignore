@@ -1,0 +1,32 @@
+/web/LojaWeb/00 - Presentation/LojaWeb/bin
+/web/LojaWeb/04 - Infra/04.1 - Infra.Data/Infra.Data/bin
+/win/Loja/Loja/bin
+/web/LojaWeb/01 - Services/LojaApi/bin
+/web/LojaWeb/04 - Infra/04.1 - Infra.Data/Infra.CrossCutting/Infra.CrossCutting.Ioc/bin
+/web/LojaWeb/03 - Domain/Domain/bin
+/web/LojaWeb/02 - Application/Application/bin
+/web/LojaWeb/01 - Services/LojaApi/bin/Debug
+/web/LojaWeb/01 - Services/LojaApi/obj/Debug
+/web/LojaWeb/04 - Infra/04.1 - Infra.Data/Infra.CrossCutting/Infra.CrossCutting.Ioc/bin/Debug
+/web/LojaWeb/04 - Infra/04.1 - Infra.Data/Infra.CrossCutting/Infra.CrossCutting.Ioc/obj/Debug
+/web/LojaWeb/03 - Domain/Domain/bin/Debug
+/web/LojaWeb/03 - Domain/Domain/obj/Debug
+/web/LojaWeb/02 - Application/Application/bin/Debug
+/web/LojaWeb/02 - Application/Application/obj/Debug
+/web/LojaWeb/00 - Presentation/LojaWeb/bin/Debug
+/web/LojaWeb/00 - Presentation/LojaWeb/obj/Debug
+/web/LojaWeb/04 - Infra/04.1 - Infra.Data/Infra.Data/bin/Debug
+/web/LojaWeb/04 - Infra/04.1 - Infra.Data/Infra.Data/obj/Debug
+/win/Loja/Loja/obj/Debug
+/win/Loja/Loja/bin/Debug
+/win/Loja/packages
+/win/Loja/.vs
+/web/LojaWeb/04 - Infra/04.1 - Infra.Data/Infra.Data/.vs
+/web/LojaWeb/.vs
+/web/LojaWeb/03 - Domain/Domain/obj
+/win/Loja/Loja/obj
+/web/LojaWeb/00 - Presentation/LojaWeb/obj
+/web/LojaWeb/01 - Services/LojaApi/obj
+/web/LojaWeb/04 - Infra/04.1 - Infra.Data/Infra.Data/obj
+/web/LojaWeb/04 - Infra/04.1 - Infra.Data/Infra.CrossCutting/Infra.CrossCutting.Ioc/obj
+/web/LojaWeb/02 - Application/Application/obj

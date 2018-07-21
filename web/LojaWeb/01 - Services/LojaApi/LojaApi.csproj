@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\03 - Domain\Domain\Domain.csproj" />
+    <ProjectReference Include="..\..\04 - Infra\04.1 - Infra.Data\Infra.CrossCutting\Infra.CrossCutting.Ioc\Infra.CrossCutting.Ioc.csproj" />
+    <ProjectReference Include="..\..\04 - Infra\04.1 - Infra.Data\Infra.Data\Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
